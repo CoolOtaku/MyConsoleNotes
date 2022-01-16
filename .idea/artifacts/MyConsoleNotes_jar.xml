@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MyConsoleNotes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyConsoleNotes_jar</output-path>
+    <root id="archive" name="MyConsoleNotes_jar.jar">
+      <element id="module-output" name="MyConsoleNotes" />
+    </root>
+  </artifact>
+</component>
