@@ -6,7 +6,7 @@
 
 Console analogue of "MyNotes", created in one day 😁.
 
-### Screenshots of the web site:
+### Screenshots of the application:
 
 <p>
   <img src="screens/s1.png" height="20%"/>
@@ -19,7 +19,7 @@ Console analogue of "MyNotes", created in one day 😁.
 
 Консольний аналог "MyNotes", створений за один день 😁.
 
-### Скріншоти вебсайту:
+### Скріншоти софта:
 
 <p>
   <img src="screens/s1.png" height="20%"/>
