@@ -1,13 +1,17 @@
-# MyConsoleNotes
+<p align="center"><img width="128" height="128" src="icon.png" /></p>
+<h1 align="center">MyConsoleNotes</h1>
 
-<p align="center"><img height="100px" src="icon.png" /></p>
+## Description
+<b>EN:</b>
 
-## EN
+Console analogue of "[MyNotes](https://github.com/CoolOtaku/MyNotes)", created in one day 😁.
 
-Console analogue of "MyNotes", created in one day 😁.
+<b>UA:</b>
 
-### Screenshots of the application:
+Консольний аналог "[MyNotes](https://github.com/CoolOtaku/MyNotes)", створений за один день 😁.
 
+#
+## Screenshots
 <p>
   <img src="screens/s1.png" height="20%"/>
   <img src="screens/s2.png" height="20%"/>
@@ -15,23 +19,18 @@ Console analogue of "MyNotes", created in one day 😁.
   <img src="screens/s4.png" height="20%"/>
 </p>
 
-## UA
+#
+## Technologies used
+<b>EN:</b>
+- Work with the command line of the operating system
+- Working with files
 
-Консольний аналог "MyNotes", створений за один день 😁.
+<b>UA:</b>
+- Робота з командним рядком операційної системи
+- Робота з файлами
 
-### Скріншоти софта:
-
-<p>
-  <img src="screens/s1.png" height="20%"/>
-  <img src="screens/s2.png" height="20%"/>
-  <img src="screens/s3.png" height="20%"/>
-  <img src="screens/s4.png" height="20%"/>
-</p>
-
-## Others
-
-### License
-
+#
+## License
 ```
 © 2022, CoolOtaku (ericspz531@gmail.com)
 ```
